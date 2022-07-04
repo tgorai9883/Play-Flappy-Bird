@@ -1,0 +1,16 @@
+.fire{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 200px;
+    background-size: cover;
+    display: none;
+}
+#fire1{
+    left: 300px;
+    background-image: url("images/fire1.gif");
+}
+#fire2{
+    left: 900px;
+    background-image: url("images/fire2.gif");
+}
